@@ -1,0 +1,8 @@
+package com.socialLogin.member;
+
+public interface SnsUrls {
+
+	static final String NAVER_ACCESS_TOKEN = "";
+	static final String NAVER_AUTH = "";
+	
+}
